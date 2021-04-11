@@ -1,0 +1,5 @@
+Welcome to the Fashion World!
+costumes:
+  - shurg
+  - maxi
+  - tees
