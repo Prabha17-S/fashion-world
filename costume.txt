@@ -3,3 +3,7 @@ costumes:
   - shurg
   - maxi
   - tees
+  #for my reference adding extra features
+  - ankle pant
+  - pajamas
+  - skirt
