@@ -10,5 +10,7 @@ costumes:
  #one more new thing for kids
   - sweaters
   - shorts
-  
+ # for men
+  - shirt
+  - jeans
  
