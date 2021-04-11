@@ -7,3 +7,8 @@ costumes:
   - ankle pant
   - pajamas
   - skirt
+ #one more new thing for kids
+  - sweaters
+  - shorts
+  
+ 
